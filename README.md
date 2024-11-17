@@ -31,8 +31,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdiakbarmir&show_icons=true&locale=en&layout=compact" alt="mehdiakbarmir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiakbarmir&show_icons=true&locale=en" alt="mehdiakbarmir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiakbarmir" alt="mehdiakbarmir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiakbarmir&" alt="mehdiakbarmir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiakbarmir&" alt="mehdiakbarmir" /></p>
 <img src="https://github.com/taniyow/taniyow/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
