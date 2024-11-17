@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Gilgit-Baltistan,Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdiakbkar-1&label=Profile%20views&color=0e75b6&style=flat" alt="mehdiakbarmir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdiakbarmir &label=Profile%20views&color=0e75b6&style=flat" alt="mehdiakbarmir" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mehdiakbarmir" target="blank"><img src="https://img.shields.io/twitter/follow/mehdiakbarmir?logo=twitter&style=for-the-badge" alt="mehdiakbarmir" /></a> </p>
 
@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiakbarmir&show_icons=true&locale=en" alt="mehdiakbarmir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiakbarmir&" alt="mehdiakbarmir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdiakbarmir" alt="mehdiakbarmir" /></p>
 <img src="https://github.com/taniyow/taniyow/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
