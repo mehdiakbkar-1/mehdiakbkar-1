@@ -32,7 +32,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdiakbarmir&show_icons=true&locale=en" alt="mehdiakbarmir" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mehdiakbarmir&theme=dark" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mehdiakbarmir&theme=dark" alt="GitHub Streak" /></a>
 <img src="https://github.com/taniyow/taniyow/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
 
